@@ -1,2 +1,2 @@
-# t4c
-The 4th Culture Public Github Repository
+# The 4th Culture - Github Repository
+
